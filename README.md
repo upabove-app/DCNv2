@@ -1,6 +1,6 @@
 ## Deformable Convolutional Networks V2 with Pytorch 1.0
 
-This replaces the yolact-original DCVv2 directory - the branch that is used is for pytorch 1.7
+This replaces the yolact-original DCNv2 directory - the branch that is used is for pytorch 1.7
 
 ### Build
 ```bash
